@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farrely-F&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&custom_title=Tech Stacks" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="102" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e4791camjptgo5ouxp8jlxp6p0m1v5ere5ra0qlptow&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
@@ -43,11 +37,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Farrely-F/Farrely-F/output/snake.svg" alt="Snake animation" />
 
 ###
