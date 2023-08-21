@@ -39,3 +39,11 @@
 </div>
 
 ###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full Stack Engineering<br>🎯 Goals: Becoming a professional Front-End/UX Engineer<br>🎲 Fun fact: having love and hate relationship with back end tech</p>
+
+###
