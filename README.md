@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="102" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e4791camjptgo5ouxp8jlxp6p0m1v5ere5ra0qlptow&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<a href="https://app.daily.dev/farrelyf"><img src="https://api.daily.dev/devcards/46bddf42a24145b98456d91afdf89e7e.png?r=85t" width="400" alt="Farrely Firenza's Dev Card"/></a>
 
 ###
 
