@@ -1,7 +1,5 @@
 <div align="center">
-
-# ✨ Farrely Firenza
-
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Front%20End%20Engineer-61DAFB?style=flat-square&logo=react&logoColor=white" alt="Role"/>
   <img src="https://img.shields.io/badge/Location-Tangerang,%20Indonesia-61DAFB?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
@@ -19,7 +17,25 @@
   </a>
 </p>
 
-<a href="https://app.daily.dev/farrelyf"><img src="https://api.daily.dev/devcards/46bddf42a24145b98456d91afdf89e7e.png?r=85t" width="300" alt="Farrely Firenza's Dev Card"/></a>
+<p align="center">
+  <img src="https://avatar.suipassport.app/894030dc-43fd-4194-9935-59e895d933c8.png" alt="SUI Fundammentals NFT" width="200"/>
+  <img src="https://avatar.suipassport.app/a6f0d055-36c5-4be9-83e5-4e993b34ac77.png" alt="SUI Developer Onboard NFT" width="200"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://i2c.seadn.io/base/0x22c1f6050e56d2876009903609a2cc3fef83b415/a6bdda78bce0cb0af17d8cb51d5806/98a6bdda78bce0cb0af17d8cb51d5806.gif?w=500" 
+    alt="Kelas Rutin Batch 3 Graduation" 
+    width="200"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://gcs.subscan.io/statemint/nfts/7e70eb6590c2f9d9b28a44aac0c959d2.png" 
+    alt="Polkadot Code Camp Indonesia" 
+    width="200"
+  />
+</p>
+
 
 </div>
 
@@ -27,10 +43,12 @@
 
 Experienced **Front-End Engineer** with a passion for building responsive and user-centered web applications. Currently working as a Front End Engineer, where I build PoC AI-powered applications with Next.js, TypeScript, and Vercel AI SDK.
 
-- 🧠 Strong interest in integrating **AI & ML** (especially LLMs) into web interfaces
+- 🧠 Strong interest in integrating **AI, ML & Blockchain Technology** (especially LLMs) into web interfaces
 - 🎨 Background in both front-end engineering and R&D in generative AI tools
 - 🔍 Experience working across product design, engineering, and UX
 - 📧 Reach me at: **farrely.firenza@outlook.com**
+
+Currently interested in blockchain technology and it's application by attending various blockchain workshop & seminars, developing decentralized apps and competing in various hacaktahons.
 
 ## 🛠️ Tech Stack
 
@@ -61,6 +79,7 @@ Experienced **Front-End Engineer** with a passion for building responsive and us
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </p>
 
 ### DevOps & Infrastructure
@@ -86,6 +105,7 @@ Experienced **Front-End Engineer** with a passion for building responsive and us
 ## 🎓 Fun Facts
 
 - Philosophy graduate from University of Indonesia
+- Ongoing master of system information at Telkom University
 - Previously worked as a graphic designer—still love beautiful UI
 - Creating bugs since 2022 (and occasionally fixing them too!)
 
